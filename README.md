@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steve Gessling
 - 👀 I’m interested in Microsoft BI Tools
-- 🌱 I’m currently learning Power BI
-- 📫 How to reach me ... @Dam_Data on Twitter
+- 🌱 I’m currently learning Business Intelligence
+- 📫 How to reach me ... @Dam_Data on Twitter or https://www.linkedin.com/in/stephengessling/ on LinkedIn
 
 <!---
 DaboLeMec/DaboLeMec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
